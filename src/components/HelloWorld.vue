@@ -16,6 +16,7 @@ const count = ref(0);
       <code>components/HelloWorld.vue</code> to test HM
     </p>
   </div>
+  <el-button type="primary">aaa </el-button>
 </template>
 
 <style scoped></style>
