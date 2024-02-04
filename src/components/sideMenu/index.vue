@@ -1,7 +1,7 @@
 <template>
   <el-row class="tac">
     <el-col :span="12">
-      <h5 class="mb-2">主要分支</h5>
+      <h5 class="mb-2">main分支</h5>
       <el-menu
         default-active="2"
         class="el-menu-vertical-demo"
