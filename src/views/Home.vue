@@ -4,4 +4,10 @@
     <h1>Home</h1>
   </div>
 </template>
-<style scoped></style>
+<style scoped>
+.home {
+  font-size: 2em;
+  text-align: center;
+  margin-top: 40px;
+}
+</style>

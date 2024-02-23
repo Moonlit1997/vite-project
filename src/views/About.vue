@@ -4,4 +4,10 @@
     <h1>About</h1>
   </div>
 </template>
-<style scoped></style>
+<style scoped>
+.about {
+  font-size: 2em;
+  text-align: center;
+  margin-top: 40px;
+}
+</style>

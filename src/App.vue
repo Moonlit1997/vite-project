@@ -6,7 +6,8 @@ import sideMenu from "./components/sideMenu/index.vue";
   <div class="h-full w-full">
     <div class="h-1/4 w-full">
       <h1 class="text-3xl font-bold underline">Three.js</h1>
-      <router-link to="/">about</router-link>
+      <router-link to="/about">about/</router-link>
+      <router-link to="/">Home</router-link>
     </div>
     <div class="h-1/2 w-full flex">
       <div class="h-full w-1/4"><sideMenu /></div>
